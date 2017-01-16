@@ -10,4 +10,4 @@ def manipulate_data(int_list):
             count += 1
     result_list = [count, negative_int_sum]
     return result_list
-
+print manipulate_data({})
