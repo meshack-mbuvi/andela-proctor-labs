@@ -1,5 +1,6 @@
 def replicate_iter(times, data):
     """
+	:Author: Mbuvi
 
     :param times:
     :param data:

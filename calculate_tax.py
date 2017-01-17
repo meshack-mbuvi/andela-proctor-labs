@@ -1,4 +1,10 @@
 def calculate_tax(kwargs):
+  """
+    Author:Mbuvi
+    Function to calculate tax for various earnings
+    Params: kwargs-a dictionary containing name,amount pair for employees
+    Return type:d-dictionary containing name,tax pair for each name in kwargs
+    """
   if type(kwargs)==type({}):
     d={}
     for key,val in kwargs.items():

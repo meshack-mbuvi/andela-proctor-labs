@@ -1,5 +1,9 @@
 /**
-* javascript function
+*   :Author: Mbuvi
+*   :javascript function to whether and who should accompany those going to 
+*   :watch a movie called Deadpool
+*   :params:age-age value of an individual
+*   :Return:msg-string with condition statement to be fullfilled to watch the movie
 */
 function canIWatch(age)
 {
